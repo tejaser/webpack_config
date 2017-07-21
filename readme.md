@@ -1,8 +1,8 @@
-Webpack 2 configuration repo
+# Webpack 2 configuration repo
 
 A ready to use webpack configuration with all the bells and whistles
 
-Getting Started
+## Getting Started
 
 To install all the dependency
 
@@ -21,15 +21,16 @@ To create a production build with minification
 npm run production
 ```
 
-Authors
+## Authors
 
-Tejas Pancholi @tp70227
+* **Tejas Pancholi** @tp70227
 
-License
+## License
 
 This project is licensed under the MIT License
 
-Acknowledgments
+## Acknowledgments
 
-Indrek Lasn
-Kent C Dodds
+* Indrek Lasn
+
+* Kent C Dodds
